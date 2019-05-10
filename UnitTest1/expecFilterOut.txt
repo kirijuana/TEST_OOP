@@ -1,0 +1,2 @@
+Only Rectangle:
+5 5 Beliy 1.7
